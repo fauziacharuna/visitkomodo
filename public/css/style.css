@@ -268,7 +268,15 @@ legend {
   color: inherit;
   white-space: normal; }
 
-progress {
+  /* .navbar-brand
+  {
+      position: relative;
+      background: url(../images/logo_bni.png);
+      width: 170px;
+      left: 15px;
+      max-height: 70px; /* height of the navbar */
+  } */
+  progress {
   vertical-align: baseline; }
 
 [type="number"]::-webkit-inner-spin-button,
